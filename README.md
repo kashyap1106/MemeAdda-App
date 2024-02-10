@@ -10,7 +10,7 @@ MemeAdda is a simple Android app that allows users to easily share their favorit
 
 ## Installation
 
-To install MemeAdda on your Android device, simply download the APK file from the [releases](https://github.com/yourusername/memeadda/releases) section of this repository and install it on your device.
+To install MemeAdda on your Android device, simply download the APK file from the [releases](https://drive.google.com/file/d/1p1cAaUyWxCxMeynXlELMuSD0cUb2ZTT_/view?usp=sharing) section of this repository and install it on your device.
 
 ## Development
 
@@ -27,7 +27,3 @@ MemeAdda uses the following open-source libraries:
 
 - Retrofit: for making HTTP requests to fetch memes from Reddit.
 - Glide: for loading and caching images.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
